@@ -5,6 +5,7 @@ Overview
 ========
 
 API/Portal side obligatory steps:
+=================================
 
 - First step is to create an External Evaluation project(using either the ACCEPT Portal instance or the ACCEPT API) and upload some data(either from the ACCEPT Portal instance or the ACCEPT API) using the following json format:
 
@@ -30,6 +31,7 @@ API/Portal side obligatory steps:
 Note: On the JSON format, the "ChunkInfo" attribute is not being used at the moment. The attribute "active" needs to be uploaded with the value set to "1" so that the client side(jQuery plug-in) can displayed for evaluation.
 
 Client side configuration:
+==========================
 
 acceptApiUrl - The URL for the ACCEPT API instance(for example http://www.accept-portal.com/AcceptApi).
 evaluationApiKey - Evaluation API key generated when the Evaluation project is created.
