@@ -1,8 +1,7 @@
 accept-evaluation
 =================
 
-Overview
-========
+####Overview
 
 This repository contains a jQuery client that can be used to implement Machine Translated(MT) content Evaluation within Web based environments. To achieve such functionality some prior steps are needed.
 
@@ -13,8 +12,7 @@ This repository contains a jQuery client that can be used to implement Machine T
 
 More detailed information can be found in the [documentation repository](../../../../accept-project/accept-docs//tree/master/evaluation)
 
-API/Portal side obligatory steps:
-=================================
+####API/Portal side obligatory steps:
 
 - First step is to create an External Evaluation project(using either the ACCEPT Portal instance or the ACCEPT API) and upload some data(either from the ACCEPT Portal instance or the ACCEPT API) using the following json format:
 
@@ -39,11 +37,16 @@ API/Portal side obligatory steps:
 
 Note: On the JSON format, the "ChunkInfo" attribute is not being used at the moment. The attribute "active" needs to be uploaded with the value set to "1" so that the client side(jQuery plug-in) can displayed for evaluation.
 
-Client side configuration:
-==========================
+####Client side configuration:
 
 acceptApiUrl - The URL for the ACCEPT API instance(for example http://www.accept-portal.com/AcceptApi).
 evaluationApiKey - Evaluation API key generated when the Evaluation project is created.
 projectId - The ID of the Evaluation project.
 questionId - The ID of the Question created under the Evaluation project.
 evaluationLanguage - Language in which the question was created.
+
+####Evaluation Project Management
+
+Detailed information available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/management.rst)
+
+
