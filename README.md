@@ -55,7 +55,7 @@ More info on the REST API available [here](https://github.com/accept-project/acc
 
 ####Client Side
 
-An Use Case available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/client_example.rst)
+An Use Case available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/client_example.rst).
 
 
 
