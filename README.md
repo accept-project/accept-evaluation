@@ -47,11 +47,11 @@ evaluationLanguage - Language in which the question was created.
 
 ####Evaluation Project Management
 
-Detailed information available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/management.rst)
+Detailed information available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/management.rst).
 
 ####The Evaluation API
 
-More info on the REST API available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/api.rst)
+More info on the REST API available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/api.rst).
 
 
 
