@@ -49,4 +49,11 @@ evaluationLanguage - Language in which the question was created.
 
 Detailed information available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/management.rst)
 
+####The Evaluation API
+
+More info on the REST API available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/api.rst)
+
+
+
+
 
