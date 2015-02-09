@@ -1,6 +1,12 @@
 accept-evaluation
 =================
 
+####Citing
+
+If you use the ACCEPT Evaluation environment in your research work, please cite:
+
+Mitchell, L., Roturier, J., Silva, D. (2014). Using the ACCEPT framework to conduct an online community-based translation evaluation study. In Proceedings of the Seventeenth Annual Conference of the European Association for Machine Translation (EAMT), June 2014, Dubrovnik, Croatia. ([Bib file](https://raw.githubusercontent.com/accept-project/accept-evaluation/master/cite.bib))
+
 ####Overview
 
 This repository contains a jQuery client that can be used to implement Machine Translated(MT) content Evaluation within Web based environments. To achieve such functionality some prior steps are needed.
