@@ -30,6 +30,8 @@ More info on the REST API available [here](https://github.com/accept-project/acc
 
 An Use Case available [here](https://github.com/accept-project/accept-docs/blob/master/evaluation/client_example.rst).
 
-
+##Support Contact
+Any issue/question on the ACCEPT Evaluation plug-in can be posted [here](https://github.com/accept-project/accept-evaluation/issues).
+Or contact me directly via davidluzsilva@gmail.com
 
 
